@@ -34,6 +34,7 @@ The project is designed to keep its footprint small while making the current env
 - Magisk or KernelSU
 - Android shell environment
 - Zygisk when features requiring Zygisk are enabled
+- Android 8.0+
 
 ## Installation
 
