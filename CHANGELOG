@@ -1,0 +1,39 @@
+# Changelog
+
+All notable changes to integrityX are documented in this file.
+
+[V0.5.0] - 2026-09-17
+
+## Added
+
+- integrityX project branding.
+- Kairo Integrity Engine identity.
+- Initial documentation set.
+- Environment diagnostics documentation.
+- WebUI documentation.
+- Configuration documentation.
+- Troubleshooting guide.
+- Development guide.
+
+## Changed
+
+- Project terminology standardized around "integrityX".
+- Documentation references the existing module ID "playintegrityfix".
+- Documentation structure reorganized for easier maintenance.
+
+## Notes
+
+- This release is primarily a project and documentation milestone.
+- Integrity behavior remains dependent on the Android environment and server-side services.
+
+---
+
+[Unreleased]
+
+## Planned
+
+- More detailed environment diagnostics.
+- Improved logging.
+- Additional compatibility checks.
+- Improved module configuration interface.
+- Additional Kairo Integrity Engine components.
